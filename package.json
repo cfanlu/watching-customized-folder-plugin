@@ -1,0 +1,22 @@
+{
+  "name": "watching-customized-folder-plugin",
+  "version": "0.2.0",
+  "description": "A light webpack plugin to watching folder",
+  "main": "./src/index.js",
+  "scripts": {},
+  "author": "henry.lu",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-watch": "^0.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfanlu/watching-customized-folder-plugin"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "javascript"
+  ]
+}
